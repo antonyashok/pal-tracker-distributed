@@ -2,7 +2,7 @@ applications:
 - name: tracker-timesheets
   path: ./applications/timesheets-server/build/libs/timesheets-server.jar
   routes:
-  - route: timesheets-pradeep-cts-uki.cfapps.io
+  - route: timesheets-antony-cts-uki.cfapps.io
   memory: 1G
   instances: 1
   env:

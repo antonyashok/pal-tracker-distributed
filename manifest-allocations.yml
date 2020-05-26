@@ -2,7 +2,7 @@ applications:
 - name: tracker-allocations
   path: ./applications/allocations-server/build/libs/allocations-server.jar
   routes:
-  - route: allocations-pradeep-cts-uki.cfapps.io
+  - route: allocations-antony-cts-uki.cfapps.io
   memory: 1G
   instances: 1
   env:
